@@ -1,0 +1,17 @@
+.bundle
+db/*.sqlite3
+db/*.sqlite3.db
+log/*.log
+tmp/**/*
+*~
+\#*\#
+config/database.yml
+config/database.mysql.yml
+log/*.log
+*.swp
+.DS_Store
+webrat*html
+mkmf.log
+.yardoc
+.idea
+.project
